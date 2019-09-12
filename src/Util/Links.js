@@ -1,0 +1,1 @@
+export const saveUserDiagnosisResponse = "http://iheal365backend.appspot.com/pr/update/";

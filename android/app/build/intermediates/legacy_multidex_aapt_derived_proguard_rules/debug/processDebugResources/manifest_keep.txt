@@ -1,0 +1,2 @@
+# Referenced at D:\work\react_native\test\iheal365_Mobile_App_User\android\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:25
+-keep class com.iheal365U.MainApplication { <init>(...); }

@@ -1,0 +1,21 @@
+"native-base": "^2.10.0"                    ---     https://docs.nativebase.io/
+"react-native-firebase": "^5.2.0",          ---     https://www.npmjs.com/package/react-native-firebase
+"react-native-gesture-handler": "^1.0.12",  ---     https://kmagiera.github.io/react-native-gesture-handler/
+"react-native-vector-icons": "^6.1.0",      ---     https://github.com/oblador/react-native-vector-icons
+"react-navigation": "^3.0.9",               ---     https://reactnavigation.org/en/
+"react-redux": "^6.0.0",                    ---     https://github.com/reduxjs/react-redux
+"redux": "^4.0.1",                          ---     https://redux.js.org/introduction/getting-started
+"redux-thunk": "^2.3.0"                     ---     https://github.com/reduxjs/redux-thunk
+"react-native-modal": "^7.0.2",
+
+
+"native-base": "^2.10.0",
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-native-auto-height-image": "^1.0.5",
+    "react-native-sound": "^0.10.9",
+    "react-navigation": "^3.0.9",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "react-native-vector-icons": "^6.1.0",
+    "redux-thunk": "^2.3.0"
